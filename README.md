@@ -1,2 +1,2 @@
-# edisonchou.github.io
-Edison Chou的个人主页
+# edisonzhou.github.io
+Edison Zhou的个人主页
